@@ -51,6 +51,9 @@ p {
     font-size: 18px;
 
 }
+span{
+    font-weight: bold;
+}
 
 .p2 {
     margin-bottom: 36px;
