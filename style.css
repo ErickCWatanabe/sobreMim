@@ -83,7 +83,7 @@ span{
         display: none;
     }
 }
-@media(max-height:678px){
+@media(max-height:700px){
     .boxInterna{
         margin:50px 0px 50px 59px;}
     .imagem{
